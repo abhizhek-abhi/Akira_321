@@ -45,7 +45,7 @@ REPEAT_BALL = set([
 TEMP_DOWNLOAD_PATH = "./downloads"
 
 # Owner and Bot Information
-OWNER_NAME = "Amit"
+OWNER_NAME = "Akira"
 BOT_VERSION = "69.2"
 ALIVE_IMG_PATH = "https://envs.sh/INk.mp4"
 
